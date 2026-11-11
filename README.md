@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Diego! 👋
 
-<!--
-**Dieg0sBA15/Dieg0sBA15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Computer Systems Engenieering , driven by a curiosity for technology and a love for coding and music. I'm currently persuing my Computer Systems Engenieering degree where my especialty is claude computing.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,python,aws,azure,git,github)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Python Development and algorithms.
+
+ ## 🏆 Achievements
+
+- 🌟 Completed Innovatec 2025 - Contributed to a finance project adding creative ideas at a projects event in Hermosillo, Sonora, MX.
+
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
