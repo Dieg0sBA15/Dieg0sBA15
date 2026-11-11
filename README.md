@@ -1,6 +1,6 @@
 # Hi, I'm Diego!👋⌨️🖱️
 
-I am a passionate Computer Systems Engenieering , driven by a curiosity for technology and a love for coding and music. I'm currently persuing my Computer Systems Engenieering degree where my especialty is claude computing.
+I am a passionate Computer Systems Engenieering , driven by a curiosity for technology and a love for coding and music. I'm currently persuing my Computer Systems Engenieering degree (Last year student) where my especialty is claude computing.
 
 
 ## Tech Stack
