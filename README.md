@@ -15,4 +15,4 @@ I am a passionate Computer Systems Engenieering , driven by a curiosity for tech
 
 - 🌟 Completed Innovatec 2025 - Contributed to a finance project adding creative ideas at a projects event in Hermosillo, Sonora, MX.
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for stopping by!🚀
